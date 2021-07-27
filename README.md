@@ -1,0 +1,2 @@
+# mirai-attached-component-template
+ 
