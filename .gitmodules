@@ -1,0 +1,3 @@
+[submodule "mirai-command-component-framework"]
+	path = mirai-command-component-framework
+	url = https://github.com/top-tocome/mirai-command-component-framework.git
