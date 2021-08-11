@@ -1,2 +1,2 @@
 include(":mirai-command-component-framework")
-include("mirai-attached-component")
+include(":mirai-attached-component")
